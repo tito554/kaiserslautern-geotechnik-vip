@@ -1,0 +1,44 @@
+# Geotechnik — Kaiserslautern
+
+> Geotechnical engineering services in Kaiserslautern, Deutschland.
+
+## Services
+- [Anker](https://kaiserslautern.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://kaiserslautern.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://kaiserslautern.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://kaiserslautern.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://kaiserslautern.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://kaiserslautern.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://kaiserslautern.geotechnik.vip/boschungsstabilitat/)
+- [Cbr Strasse](https://kaiserslautern.geotechnik.vip/cbr-strasse/)
+- [Cpt Versuch](https://kaiserslautern.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://kaiserslautern.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://kaiserslautern.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://kaiserslautern.geotechnik.vip/fundamente/)
+- [Geophysik](https://kaiserslautern.geotechnik.vip/geophysik/)
+- [Grundungen](https://kaiserslautern.geotechnik.vip/grundungen/)
+- [Hange](https://kaiserslautern.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://kaiserslautern.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://kaiserslautern.geotechnik.vip/injektionen/)
+- [Labor](https://kaiserslautern.geotechnik.vip/labor/)
+- [Labor In Situ](https://kaiserslautern.geotechnik.vip/labor-in-situ/)
+- [Masw](https://kaiserslautern.geotechnik.vip/masw/)
+- [Pfahle](https://kaiserslautern.geotechnik.vip/pfahle/)
+- [Ruttelverdichtung](https://kaiserslautern.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://kaiserslautern.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://kaiserslautern.geotechnik.vip/schottersaulen/)
+- [Schurfgruben](https://kaiserslautern.geotechnik.vip/schurfgruben/)
+- [Seismik](https://kaiserslautern.geotechnik.vip/seismik/)
+- [Starrer Belag](https://kaiserslautern.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://kaiserslautern.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://kaiserslautern.geotechnik.vip/stutzmauern/)
+- [Untersuchung](https://kaiserslautern.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://kaiserslautern.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://kaiserslautern.geotechnik.vip/weichbodentunnel/)
+
+## Contact
+- Website: https://kaiserslautern.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Kaiserslautern, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
